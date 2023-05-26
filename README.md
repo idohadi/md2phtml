@@ -2,6 +2,9 @@
 
 This Python script converts parts of Markdown documents into HTML and replaces the native Markdown with their HTML counterpart. Great for using extended Markdown syntax with parsers which don't support them.
 
+# Motivation
+<!-- TODO -->
+
 # Requirements
 <!-- TODO -->
 
